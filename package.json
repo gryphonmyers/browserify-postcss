@@ -23,7 +23,7 @@
   "homepage": "https://github.com/zoubin/browserify-postcss#readme",
   "dependencies": {
     "cssify": "^1.0.2",
-    "postcss": "^5.0.0",
+    "postcss": "^6.0.14",
     "resolve": "^1.1.6",
     "sink-transform": "^2.0.0"
   },
@@ -31,8 +31,8 @@
     "browserify": "^14.1.0",
     "postcss-advanced-variables": "^1.2.2",
     "postcss-custom-url": "^4.2.1",
-    "postcss-import": "^9.1.0",
-    "postcss-nested": "^1.0.0",
+    "postcss-import": "^11.0.0",
+    "postcss-nested": "^3.0.0",
     "standard": "*",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.3",
